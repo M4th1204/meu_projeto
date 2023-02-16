@@ -2,4 +2,4 @@
 
 ## Curso de Desenvolvimento de Sistemas 3DS
 
-Solo este é um exemplo de projeto com git
+Este é um exemplo de projeto com git
